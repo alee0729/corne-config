@@ -21,10 +21,10 @@
 
             display-name = "Base";
             bindings = <
-&kp ESC         &kp Q        &kp W        &kp E         &kp R             &mt LG(T) T    &kp Y      &mt LG(U) U  &mt LG(I) I      &kp O    &kp P             &kp BSPC
-&kp TAB         &kp A        &kp S        &kp D         &kp F             &kp G          &kp H      &kp J        &kp K            &kp L    &kp SINGLE_QUOTE  &kp RET
-&kp LEFT_SHIFT  &mt LG(Z) Z  &mt LG(X) X  &mt LG(C) C   &mt LG(V) V       &mt LG(B) B    &kp N      &kp M        &kp COMMA        &kp DOT  &kp FSLH          &lt 2 MINUS
-                                          &kp LEFT_ALT  &kp LEFT_COMMAND  &kp EQUAL      &kp SPACE  &lt 1 COLON  &lt 2 SEMICOLON
+&kp ESC         &kp Q        &kp W        &kp E         &mt LG(LS(NUMBER_4)) R  &mt LG(T) T    &kp Y      &mt LG(U) U  &mt LG(I) I      &kp O    &mt LG(P) P       &kp BSPC
+&kp TAB         &mt LG(A) A  &mt LG(S) S  &kp D         &mt LG(F) F             &mt LG(G) G    &kp H      &kp J        &kp K            &kp L    &kp SINGLE_QUOTE  &kp RET
+&kp LEFT_SHIFT  &mt LG(Z) Z  &mt LG(X) X  &mt LG(C) C   &mt LG(V) V             &mt LG(B) B    &kp N      &kp M        &kp COMMA        &kp DOT  &kp FSLH          &lt 2 MINUS
+                                          &kp LEFT_ALT  &kp LEFT_COMMAND        &kp EQUAL      &kp SPACE  &lt 1 COLON  &lt 2 SEMICOLON
             >;
         };
 
