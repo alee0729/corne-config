@@ -20,12 +20,12 @@
 
         MouseScrollUp {
             bindings = <&msc SCRL_UP>;
-            key-positions = <13 14 15 16>;
+            key-positions = <15 16>;
         };
 
         MouseScrollDown {
             bindings = <&msc SCRL_DOWN>;
-            key-positions = <19 20 21 22>;
+            key-positions = <19 20>;
         };
     };
 
